@@ -10,7 +10,7 @@ More info on the UCR Suite web page http://www.cs.ucr.edu/~eamonn/UCRsuite.html
 ###Requirements
 Python 2.7+, numpy 1.8+
 
-###Sci-kit Learn-Like Interface
+###Scikit-Learn-Like Interface
 ```
 import sys
 import numpy as np
