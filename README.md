@@ -10,7 +10,7 @@ More info on the UCR Suite web page http://www.cs.ucr.edu/~eamonn/UCRsuite.html
 ###Requirements
 Python 2.7+, numpy 1.8+
 
-###Usage
+###Sci-kit Learn-Like Interface
 ```
 import sys
 import numpy as np
@@ -32,6 +32,7 @@ clf.fit(X,y)
 print clf.predict([np.sin(np.linspace(0,50,m))])
 ```
 
+###Basic Interface
 ```
 import _ucrdtw
 import numpy as np
